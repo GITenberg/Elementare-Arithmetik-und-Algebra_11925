@@ -1,0 +1,32 @@
+_repo: Elementare-Arithmetik-und-Algebra_11925
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schubert, Hermann
+    aliases:
+    - Schubert, Hermann Casar Hannibal
+    - Schubert, Hermann Cäsar Hannibal
+    birthdate: 1848
+    deathdate: 1911
+    gutenberg_agent_id: '4930'
+    url: http://www.gutenberg.org/2009/agents/4930
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Schubert
+description: ''
+gutenberg_bookshelf:
+- Mathematics
+- DE Sachbuch
+gutenberg_issued: '2004-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11925'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mathematics'
+- !lcsh 'Algebra'
+- !lcc 'QA'
+- GITenberg
+title: Elementare Arithmetik und Algebra
+url: http://www.gutenberg.org/ebooks/11925
